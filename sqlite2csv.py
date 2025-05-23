@@ -49,5 +49,6 @@ if __name__ == "__main__":
     
     save_table_to_csv('Information')
     save_table_to_csv('Review')
+    save_table_to_csv('Tour')
     
     print("good")
